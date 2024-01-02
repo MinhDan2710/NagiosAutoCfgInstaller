@@ -72,10 +72,11 @@ This tool provides the following functions:
 ## Tutorial
 ####This is the main interface of the tool:
 ![img_1.png](img_1.png)
+
+
 #####Instructions for creating configuration files for Windows clients:
 - Step 1: Enter some basic information such as IP address, alias, contact group.
 ![img_2.png](img_2.png)
-
 
 - Step 2: Enter the client's username and password to connect and automatically install the necessary configuration on the client side
 The tool will automatically check whether the client has installed the NSClient++ plugin or not?
@@ -97,4 +98,4 @@ Project by Nguyen Huynh Minh Dan - FPT University student
 
 ## Contact Info
 - Phone: 0906 957 539
-- Email: nhmdan2710@gmail.com# NagiosAutoCfgInstaller
+- Email: nhmdan2710@gmail.com
