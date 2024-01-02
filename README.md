@@ -1,4 +1,5 @@
 # Nagios Core Automation Tool
+
 <img src="img_6.png" alt="Thumbnail Image" style="width: 200px; height: auto; border-radius: 10px;">
 
 ## Introduce
