@@ -70,11 +70,12 @@ This tool provides the following functions:
      ```
 - `paramiko.ssh_exception.SSHException`: Exception related to SSH connection.
 ## Tutorial
-##This is the main interface of the tool:
+
+### This is the main interface of the tool:
 
 ![img_1.png](img_1.png)
 
-###Instructions for creating configuration files for Windows clients:
+#### Instructions for creating configuration files for Windows clients:
 - Step 1: Enter some basic information such as IP address, alias, contact group.
 ![img_2.png](img_2.png)
 
@@ -87,7 +88,7 @@ Otherwise, the tool will install automatically
 - Step 3: enter the configuration file name you want
 ![img_4.png](img_4.png)
 
-##Check the results on the Nagios Core monitoring page
+#### Check the results on the Nagios Core monitoring page
 ![img_5.png](img_5.png)
 
 ## Conclude
