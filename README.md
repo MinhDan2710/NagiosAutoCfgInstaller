@@ -71,8 +71,8 @@ This tool provides the following functions:
 - `paramiko.ssh_exception.SSHException`: Exception related to SSH connection.
 ## Tutorial
 ####This is the main interface of the tool:
-![img_1.png](img_1.png)
 
+![img_1.png](img_1.png)
 
 #####Instructions for creating configuration files for Windows clients:
 - Step 1: Enter some basic information such as IP address, alias, contact group.
