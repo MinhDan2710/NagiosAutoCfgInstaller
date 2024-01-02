@@ -44,7 +44,7 @@ This tool provides the following functions:
      ```
      pip install subprocess
      ```
-- `re` (Regular Expressions): Library to process and search strings with regular expressions.
+- `re`: (Regular Expressions): Library to process and search strings with regular expressions.
      ```
      pip install re
      ```
